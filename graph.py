@@ -17,10 +17,10 @@ axis = fig.add_subplot(111, projection='3d')
 
 axis.plot(x, y, z, '-r', linewidth=3)
 
-axis.set_xlabel('X', fontweight='bold', fontsize = 16)
+axis.set_xlabel('X', fontweight='bold', fontsize = 16)  # Setting the corresponding title to each axis and the typography
 axis.set_ylabel('Y', fontweight='bold', fontsize = 16)
 axis.set_zlabel('Z', fontweight='bold', fontsize = 16)
 
-plt.title('Parametric Curve', fontweight='bold', fontsize=18)
+plt.title('Parametric Curve', fontweight='bold', fontsize=18) # Labelling the title of the graph and assigning typography.
 
-plt.show()
+plt.show()  # Function to display the graph in a new window
