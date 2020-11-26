@@ -1,6 +1,6 @@
-# ElectricFieldAtOrigin
-![](ElectFieldPic.png)
+# ParametricGraph
 
-A simple calculator for the Electric Field at the origin due to three point charges in the +(x,y) plane.
+# Function 
+This code utilizes both the Numpy and Matplotlib libraries to display a parametric curve in 3 dimensions.
 
-# Links
+
